@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828879259773",
+    "project_id": "rutasanacamacho",
+    "storage_bucket": "rutasanacamacho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828879259773:android:c8410b436c3b93f6cd0914",
+        "android_client_info": {
+          "package_name": "com.example.rutasanacamacho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsKYDwMZBTQiEXU80mt9trTfYQjUfC7MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
